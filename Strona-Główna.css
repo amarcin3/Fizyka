@@ -1,0 +1,389 @@
+ .u-section-1 {
+  background-image: url("images/fizyka.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  --animation-custom_in-translate_y: 10px;
+  --animation-custom_in-opacity: 0;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  line-height: 1.2;
+  letter-spacing: 1px;
+  font-size: 6rem;
+  font-weight: bold;
+  margin: 60px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.3rem;
+  }
+} .u-section-2 {
+  background-image: url("images/piorun.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 191px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 4.5rem;
+  font-style: italic;
+  transition-duration: 0.3s;
+  transform: scale(1.1) translateX(-10px) translateY(0px);
+  margin: 38px auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 157px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 120px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 90px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 77px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+.u-section-2 .u-btn-1,
+.u-section-2 .u-btn-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-2 .u-btn-1.u-btn-1.u-btn-1:hover:before {
+  background-color: transparent !important;
+}
+
+.u-section-2 .u-btn-1.u-btn-1.u-btn-1:hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-2 .u-btn-1 {
+  border-color: transparent !important;
+}
+
+.u-section-2 .u-btn-1.u-btn-1.u-btn-1.hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-2 .u-btn-1 {
+  border-color: transparent !important;
+} .u-section-3 {
+  background-image: url("images/snieg.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 191px;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 4.5rem;
+  font-style: italic;
+  transition-duration: 0.3s;
+  transform: scale(1.1) translateX(-10px) translateY(0px);
+  margin: 38px auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 157px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 120px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 90px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 77px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+.u-section-3 .u-btn-1,
+.u-section-3 .u-btn-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-3 .u-btn-1.u-btn-1.u-btn-1:hover:before {
+  background-color: transparent !important;
+}
+
+.u-section-3 .u-btn-1.u-btn-1.u-btn-1:hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-3 .u-btn-1 {
+  border-color: transparent !important;
+}
+
+.u-section-3 .u-btn-1.u-btn-1.u-btn-1.hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-3 .u-btn-1 {
+  border-color: transparent !important;
+} .u-section-4 {
+  background-image: url("images/zyroskop.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 191px;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 4.5rem;
+  font-style: italic;
+  transition-duration: 0.3s;
+  transform: scale(1.1) translateX(-10px) translateY(0px);
+  margin: 38px auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 157px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 120px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 90px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 77px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+.u-section-4 .u-btn-1,
+.u-section-4 .u-btn-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-4 .u-btn-1.u-btn-1.u-btn-1:hover:before {
+  background-color: transparent !important;
+}
+
+.u-section-4 .u-btn-1.u-btn-1.u-btn-1:hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-4 .u-btn-1 {
+  border-color: transparent !important;
+}
+
+.u-section-4 .u-btn-1.u-btn-1.u-btn-1.hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-4 .u-btn-1 {
+  border-color: transparent !important;
+} .u-section-5 {
+  background-image: url("images/laminarflow.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 191px;
+}
+
+.u-section-5 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 4.5rem;
+  font-style: italic;
+  transition-duration: 0.3s;
+  transform: scale(1.1) translateX(-10px) translateY(0px);
+  margin: 38px auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 157px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 120px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 90px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 77px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+.u-section-5 .u-btn-1,
+.u-section-5 .u-btn-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-5 .u-btn-1.u-btn-1.u-btn-1:hover:before {
+  background-color: transparent !important;
+}
+
+.u-section-5 .u-btn-1.u-btn-1.u-btn-1:hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-5 .u-btn-1 {
+  border-color: transparent !important;
+}
+
+.u-section-5 .u-btn-1.u-btn-1.u-btn-1.hover {
+  color: #000000 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+  border-color: #404040 !important;
+}
+
+.u-section-5 .u-btn-1 {
+  border-color: transparent !important;
+}
